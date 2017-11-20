@@ -1,0 +1,3 @@
+Host mmd
+	HostName login.engin.umich.edu User adampsar
+	Compression yes
